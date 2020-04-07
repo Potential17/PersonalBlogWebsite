@@ -3,6 +3,7 @@
 @import "footer.css";
 @import "menu.css";
 @import "nav.css";
+@import "info.css";
 
 /*body & header styling */
 header {
@@ -28,6 +29,7 @@ body{
     grid-template-areas:
     "menu"
     "navigation"
+    "info"
     "content"
     "footer";
 }
